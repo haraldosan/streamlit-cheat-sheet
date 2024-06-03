@@ -35,22 +35,23 @@ def cs_body():
     # Display text
 
     col1.header('Mandag')
-    col1.code('''Karbonader m/ brød
+    col1.code('''Kyllinglår m/ couscous
 Allergener: Hvete / gluten''')
-
+    
     col1.header('Tirsdag')
-    col1.code('''Kjøttboller i ratatouille m/ potetmos
-Allergener: Gluten / hvete, melk''')
+    col1.code('''Fish & chips
+Allergener: Gluten / hvete, melk, fisk''')
+    
     col1.header('Onsdag')
-    col1.code('''Soppsuppe m/ tilbehør
+    col1.code('''Potetsuppe m/ tilbehør
 Allergener: Gluten / hvete, melk''')
 
     col1.header('Torsdag')
-    col1.code('''Vårrull m/ asiatisk ris
+    col1.code('''Biff stroganoff m/ ris
 Allergener: Gluten / hvete, melk''')
 
     col1.header('✨ Fredag ✨')
-    col1.code('''Kylling shawarma m/ libabrød
+    col1.code('''TACO 🌮
 Allergener: Gluten / hvete, melk''')
 
     return None
