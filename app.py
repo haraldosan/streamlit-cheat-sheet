@@ -36,7 +36,7 @@ def cs_body():
 
     col1.header('Mandag')
     col1.code('''Gulasj m/ potetmos
-Allergener: Hvete / gluten, melk''')
+Allergener: Gluten/hvete, melk''')
     
     col1.header('Tirsdag')
     col1.code('''Stekt ris m/ kylling
