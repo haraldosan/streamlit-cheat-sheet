@@ -39,7 +39,7 @@ def cs_body():
 Allergener: Gluten / hvete, melk''')
     
     col1.header('Tirsdag')
-    col1.code('''Kalkunscnitzel m/ pommes frites & bernasesaus
+    col1.code('''Kalkunscnitzel m/ pommes frites & béarnaisesaus
 Allergener: Gluten / hvete, melk, egg''')
     
     col1.header('Onsdag')
