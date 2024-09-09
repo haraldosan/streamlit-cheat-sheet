@@ -40,7 +40,7 @@ Allergener: Gluten / hvete, melk''')
     
     col1.header('Tirsdag')
     col1.code('''Fish & Chips
-Allergener: Gluten / hvete, melk, egg''')
+Allergener: Gluten / hvete, melk, fisk''')
     
     col1.header('Onsdag')
     col1.code('''Blomkålsuppe m/ tilbehør
