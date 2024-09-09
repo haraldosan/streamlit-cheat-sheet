@@ -35,7 +35,7 @@ def cs_body():
     # Display text
 
     col1.header('Mandag')
-    col1.code('''Kjøttboller m/ ratatouille med potetmos
+    col1.code('''Kjøttboller i ratatouille med potetmos
 Allergener: Gluten / hvete, melk''')
     
     col1.header('Tirsdag')
