@@ -24,7 +24,7 @@ def main():
 
 def cs_body():
 
-    st.title('Hva er det egentlig i kantina - UKE 33 edition?')
+    st.title('Hva er det egentlig i kantina - UKE 37 edition?')
 
     col1 = st.container()
 
@@ -35,15 +35,15 @@ def cs_body():
     # Display text
 
     col1.header('Mandag')
-    col1.code('''Karbonader m/ løk
+    col1.code('''Kjøttboller m/ ratatouille med potetmos
 Allergener: Gluten / hvete, melk''')
     
     col1.header('Tirsdag')
-    col1.code('''Kalkunscnitzel m/ pommes frites & béarnaisesaus
+    col1.code('''Fish & Chips
 Allergener: Gluten / hvete, melk, egg''')
     
     col1.header('Onsdag')
-    col1.code('''Suppe m/ tilbehør
+    col1.code('''Blomkålsuppe m/ tilbehør
 Allergener: Gluten / hvete, melk''')
 
     col1.header('Torsdag')
@@ -51,7 +51,7 @@ Allergener: Gluten / hvete, melk''')
 Allergener: Gluten / hvete, melk''')
 
     col1.header('✨ Fredag ✨')
-    col1.code('''BURGER 🍔
+    col1.code('''GYROS🍔
 Allergener: Gluten / hvete, melk''')
 
     return None
